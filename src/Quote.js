@@ -1,3 +1,5 @@
+import React from 'react';
+
 export function Quote() {
   return (
     <section id="home-section" className="active">
@@ -61,5 +63,5 @@ export function Quote() {
       </div>
     </div>
   </section>
-    );
+  );
 }

@@ -68,7 +68,7 @@ export default function App() {
       </div>
     </div>
   </section>
-            <section id="i-section">
+  <section id="i-section">
               <div id="container02" className="container columns">
                 <div className="wrapper">
                   <div className="inner">
@@ -174,6 +174,347 @@ export default function App() {
                 </div>
               </div>
             </section>
+            <section id="ii-section">
+                        <div id="container04" class="container default full">
+                            <div class="wrapper">
+                                <div class="inner">
+                                    <h1 id="text10">ROSTER.</h1>
+                                    <ul id="links01" class="style1 links">
+                                        <li class="n01">
+                                            <a href="#i">guide.</a>
+                                        </li>
+                                        <li class="n02">
+                                            <a href="#ii">roster.</a>
+                                        </li>
+                                        <li class="n03">
+                                            <a href="#iii">connections.</a>
+                                        </li>
+                                        <li class="n04">
+                                            <a href="#iii">blog.</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="container03" class="container columns full">
+                            <div class="wrapper">
+                                <div class="inner">
+                                    <div>
+                                        <p id="text12" class="style1">
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p id="text05" class="style1">
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p id="text04" class="style1">
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                            <span class="p">
+                                                <mark>NAME &nbsp;:</mark>
+                                                &nbsp;<em>fandom</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>FACE CLAIM : fc</strong>
+                                                </em>
+                                                .&nbsp;<em>age.</em>
+                                                &nbsp;<u>pro/nouns</u>
+                                                .&nbsp;add a description, as short or long as you would like. what &#39;s the deal with dojo cat these days, anyways?
+                                            </span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="iii-section">
+                        <div id="container06" class="container columns full">
+                            <div class="wrapper">
+                                <div class="inner" data-reorder="1,0,2">
+                                    <div>
+                                        <p id="text02" class="style2">MY BOOKS.</p>
+                                        <p id="text13" class="style1">
+                                            <span class="p">
+                                                <mark>
+                                                    <a href="https://www.wattpad.com/story/309025268-%D8%AD%D9%8F%D9%85%D9%91%D9%8E%D9%89-%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%9E%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A9-%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A7%F0%9D%97%A6%E2%9C%94%EF%B8%8E">FEVER</a>
+                                                    &nbsp;:
+                                                </mark>
+                                                &nbsp;<em>Completed</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>All Tokyorev characters</strong>
+                                                </em>
+                                                .&nbsp;Oneshots &#39;book.
+                                            </span>
+                                            <span class="p">
+                                                <mark>
+                                                    <a href="#">PASTEL GHOST</a>
+                                                    &nbsp;:
+                                                </mark>
+                                                &nbsp;<em>Completed</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>Takashe Mitsuya From TokyoRev</strong>
+                                                </em>
+                                                .&nbsp;A short story.
+                                            </span>
+                                            <span class="p">
+                                                <mark>URL &nbsp;:</mark>
+                                                &nbsp;<em>muse / blog wide</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>relationship</strong>
+                                                </em>
+                                                .&nbsp;description if you would like.
+                                            </span>
+                                            <span class="p">
+                                                <mark>URL &nbsp;:</mark>
+                                                &nbsp;<em>muse / blog wide</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>relationship</strong>
+                                                </em>
+                                                .&nbsp;description if you would like.
+                                            </span>
+                                            <span class="p">
+                                                <mark>URL &nbsp;:</mark>
+                                                &nbsp;<em>muse / blog wide</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>relationship</strong>
+                                                </em>
+                                                .&nbsp;description if you would like.
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <div id="image02" class="image">
+                                            <span class="frame deferred">
+                                                <img src="https://pufficats.carrd.co/assets/images/image02.gif?v=06f2ac22" alt=""/>
+                                            </span>
+                                        </div>
+                                        <ul id="buttons01" class="buttons">
+                                            <li>
+                                                <a href="#" class="button n01">return.</a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="button n02">blog.</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <p id="text11" class="style2">EXCLUSIVES.</p>
+                                        <p id="text03" class="style1">
+                                            <span class="p">
+                                                <mark>URL &nbsp;:</mark>
+                                                &nbsp;<em>muse / blog wide</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>relationship</strong>
+                                                </em>
+                                                .&nbsp;description if you would like.
+                                            </span>
+                                            <span class="p">
+                                                <mark>URL &nbsp;:</mark>
+                                                &nbsp;<em>muse / blog wide</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>relationship</strong>
+                                                </em>
+                                                .&nbsp;description if you would like.
+                                            </span>
+                                            <span class="p">
+                                                <mark>URL &nbsp;:</mark>
+                                                &nbsp;<em>muse / blog wide</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>relationship</strong>
+                                                </em>
+                                                .&nbsp;description if you would like.
+                                            </span>
+                                            <span class="p">
+                                                <mark>URL &nbsp;:</mark>
+                                                &nbsp;<em>muse / blog wide</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>relationship</strong>
+                                                </em>
+                                                .&nbsp;description if you would like.
+                                            </span>
+                                            <span class="p">
+                                                <mark>URL &nbsp;:</mark>
+                                                &nbsp;<em>muse / blog wide</em>
+                                                ,&nbsp;&nbsp;
+                                                <em>
+                                                    <strong>relationship</strong>
+                                                </em>
+                                                .&nbsp;description if you would like.
+                                            </span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <footer id="footer">
+                        <p id="text14">
+                            Made by <a href="https://www.instagram.com/puffic4ts/">pufficats</a>
+                            .
+                        </p>
+                    </footer>
           </div>
         </div>
       </div>

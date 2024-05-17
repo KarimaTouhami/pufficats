@@ -1,7 +1,13 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://64.media.tumblr.com/6bc8f6b27f3f0523310ffd16d953ce81/ab9a5f111f9bf120-ec/s1280x1920/d47adce94e5aecae89f0143b5338ae4d2ac42e66.gif"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<h1 align="center">
+  pufficats.me - v1
+</h1>
+<p align="center">
+  The first iteration of <a href="https://pufficats.me" target="_blank">gazijarin.com</a> built with React.js leveraging Material UI.
+</p>
 ## Available Scripts
 
 In the project directory, you can run:
