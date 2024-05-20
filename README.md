@@ -6,7 +6,7 @@
   pufficats.me - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://pufficats.me" target="_blank">pufficats.me</a> built with React.js leveraging Material UI.
+  The first iteration of <a href="https://pufficats.me" target="_blank">pufficats.me</a> (wip!) built with React.js leveraging Material UI.
 </p>
 
 <img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="public/Screenshot.png">
