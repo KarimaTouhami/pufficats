@@ -240,7 +240,7 @@ function Connections() {
         <div className="wrapper">
           <div className="inner" data-reorder="1,0,2">
             <div>
-              <p id="text02" className="style2">MY BOOKS.</p>
+              <p id="text02" className="style2">CHARS.</p>
               <p id="text13" className="style1">
                 <span className="p">
                   <mark>
@@ -266,16 +266,71 @@ function Connections() {
                   </em>
                   .&nbsp;A short story.
                 </span>
-                {[...Array(3)].map((_, index) => (
-                  <span key={index} className="p">
-                    <mark>URL :</mark>&nbsp;
-                    <em>muse / blog wide</em>,&nbsp;&nbsp;
-                    <em>
-                      <strong>relationship</strong>
-                    </em>
-                    .&nbsp;description if you would like.
-                  </span>
-                ))}
+                <span className="p">
+                  <mark>
+                    <a href="">
+                      UNREAL
+                    </a>
+                    &nbsp;:
+                  </mark>
+                  &nbsp;<em>Incompleted</em>,&nbsp;&nbsp;
+                  <em>
+                    <strong>X characters</strong>
+                  </em>
+                  .&nbsp;A short story.
+                </span>
+                <span className="p">
+                  <mark>
+                    <a href="">
+                      COLA
+                    </a>
+                    &nbsp;:
+                  </mark>
+                  &nbsp;<em>Completed</em>,&nbsp;&nbsp;
+                  <em>
+                    <strong>X characters</strong>
+                  </em>
+                  .&nbsp;A novel.
+                </span>
+                <span className="p">
+                  <mark>
+                    <a href="">
+                      4 O'CLOCK
+                    </a>
+                    &nbsp;:
+                  </mark>
+                  &nbsp;<em>Incompleted</em>,&nbsp;&nbsp;
+                  <em>
+                    <strong>X characters</strong>
+                  </em>
+                  .&nbsp;A novel.
+                </span>
+                <span className="p">
+                  <mark>
+                    <a href="">
+                      THE TEA IS GONE
+                    </a>
+                    &nbsp;:
+                  </mark>
+                  &nbsp;<em>Incompleted</em>,&nbsp;&nbsp;
+                  <em>
+                    <strong>X characters</strong>
+                  </em>
+                  .&nbsp;A novel.
+                </span>
+                <span className="p">
+                  <mark>
+                    <a href="">
+                      THE BLUESIDE
+                    </a>
+                    &nbsp;:
+                  </mark>
+                  &nbsp;<em>Completed</em>,&nbsp;&nbsp;
+                  <em>
+                    <strong>X characters</strong>
+                  </em>
+                  .&nbsp;A short story.
+                </span>
               </p>
             </div>
             <div>
