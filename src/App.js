@@ -32,15 +32,6 @@ function Home() {
                 </a>
               </li>
               <li>
-                <a className="n02" href="https://www.wattpad.com/user/pufficats">
-                  <svg aria-labelledby="icon-title2">
-                    <title id="icon-title2">Wattpad</title>
-                    <use xlinkHref="#icon-d95047674115cba289c0870d1571ee59"></use>
-                  </svg>
-                  <span className="label">Wattpad</span>
-                </a>
-              </li>
-              <li>
                 <a className="n03" href="https://www.pinterest.com/Lov3lyEllie/">
                   <svg aria-labelledby="icon-title3">
                     <title id="icon-title3">Pinterest</title>
