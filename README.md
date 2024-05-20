@@ -9,7 +9,7 @@
   The first iteration of <a href="https://pufficats.me" target="_blank">pufficats.me</a> built with React.js leveraging Material UI.
 </p>
 
-<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="public/Screenshot 2024-05-17 at 21.32.58.png">
+<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="public/Screenshot.png">
 
 ## 🛠 set-up
 
