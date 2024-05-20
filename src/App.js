@@ -67,7 +67,7 @@ function Guide() {
             <div>
               <h3 id="text06"><em>GUIDE.</em></h3>
               <ul id="links02" className="style2 links">
-                <li className="n01"><Link to="/guide">guide.</Link></li>
+                <li className="n01"><Link to="/">home.</Link></li>
                 <li className="n02"><Link to="/roster">roster.</Link></li>
                 <li className="n03"><Link to="/connections">connections.</Link></li>
               </ul>
@@ -100,10 +100,6 @@ function Guide() {
                     .
                   </span>
                   <span style={{ color: "#E4F2F6" }}>(To be honest, I find myself easily attracted to religious people //3)</span>
-                  <em>italics.</em>
-                  <strong>bold.</strong>
-                  <code>code.</code>
-                  <mark>highlight.</mark>
                 </span>
                 <span className="p">
                   <strong>[&nbsp;002 &nbsp;]:</strong>
@@ -160,6 +156,7 @@ function Guide() {
   );
 }
 
+
 function Roster() {
   return (
     <section id="ii-section">
@@ -171,14 +168,11 @@ function Roster() {
   <li className="n01">
     <Link to="/guide">guide.</Link>
   </li>
-  <li className="n02">
-    <Link to="/roster">roster.</Link>
-  </li>
   <li className="n03">
     <Link to="/connections">connections.</Link>
   </li>
   <li className="n04">
-    <a href="#iii">blog.</a>
+  <Link to="/">home.</Link>
   </li>
 </ul>
           </div>
@@ -250,14 +244,14 @@ function Connections() {
               <p id="text13" className="style1">
                 <span className="p">
                   <mark>
-                    <a href="https://www.wattpad.com/story/309025268-%D8%AD%D9%8F%D9%85%D9%91%D9%8E%D9%89-%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%9E%F0%9D%97%AC%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A9-%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A7%F0%9D%97%A6%E2%9C%94%EF%B8%8E">
+                    <a href="">
                       FEVER
                     </a>
                     &nbsp;:
                   </mark>
                   &nbsp;<em>Completed</em>,&nbsp;&nbsp;
                   <em>
-                    <strong>All Tokyorev characters</strong>
+                    <strong>X characters</strong>
                   </em>
                   .&nbsp;Oneshots 'book.
                 </span>
@@ -268,7 +262,7 @@ function Connections() {
                   </mark>
                   &nbsp;<em>Completed</em>,&nbsp;&nbsp;
                   <em>
-                    <strong>Takashe Mitsuya From TokyoRev</strong>
+                    <strong>X characters</strong>
                   </em>
                   .&nbsp;A short story.
                 </span>
@@ -295,14 +289,14 @@ function Connections() {
               </div>
               <ul id="buttons01" className="buttons">
                 <li>
-                  <a className="button n01"><Link to="/guide">  // must fix this issue
-                    return.</Link>
-                  </a>
+                  <Link to="/guide" className="button n01">
+                    return.
+                  </Link>
                 </li>
                 <li>
-                  <a href="#" className="button n02">
+                <Link to="/" className="button n01">
                     blog.
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
